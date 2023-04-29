@@ -6,6 +6,7 @@ const Manager = require("./library/Manager");
 const Engineer = require("./library/Engineer");
 const Intern = require("./library/Intern");
 const html = require("./src/htmlGen");
+const validator = require("email-validator");
 
 // Async functions
 const writeFileAsync = util.promisify(fs.writeFile);
@@ -31,7 +32,7 @@ async function main() {
         console.clear();
         console.log("Creating index.html file...");
 
-        writeFileAsync("./dist/index.html", genHtml);
+        writeFileAsync("./src/index.html", genHtml);
 
         console.clear();
         console.log("index.html created successfully");

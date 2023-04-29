@@ -1,0 +1,22 @@
+{
+    "dependencies": {
+      "email-validator": "^2.0.4",
+      "inquirer": "^8.2.4",
+      "path": "^0.12.7"
+    },
+    "name": "module10",
+    "version": "1.0.0",
+    "main": "index.js",
+    "directories": {
+      "lib": "lib"
+    },
+    "scripts": {
+      "test": "jest",
+      "start": "node index.js",
+      "reset": "node reset.js"
+    },
+    "keywords": [],
+    "author": "Ben Ropa",
+    "license": "ISC",
+    "description": ""
+  }
