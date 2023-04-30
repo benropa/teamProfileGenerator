@@ -10,7 +10,8 @@ In order to run this application, the user will need to clone the repository and
 https://drive.google.com/file/d/132R_yc1fj6NtsHdDmVMQtTr4F5s0yf1-/view
 
 ## Screenshot
-Screenshot 2023-04-30 at 1.27.48 PM.png
+<img width="458" alt="Screenshot 2023-04-30 at 1 27 48 PM" src="https://user-images.githubusercontent.com/117046452/235370291-403e0402-1709-4056-b6c4-5e0850cd59ea.png">
+
 
 ## Contact
 * benropa@outlook.com  
