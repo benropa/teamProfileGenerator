@@ -47,8 +47,8 @@ const generateCard = function (arr) {
 <div>
     <div>
         <div>
-            <h4 class="text-white text-center">${arr.name}</h4>
-            <h4 class="text-white text-center">${positionIcon}</i> ${arr.title}</h4>
+            <h4 ${arr.name}</h4>
+            <h4 ${arr.title}</h4>
         </div>
         <div>
             <ul>
