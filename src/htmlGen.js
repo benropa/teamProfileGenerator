@@ -14,8 +14,7 @@ const generateHTML = function (teamString) {
 </head>
 <body>
 <div class="header">
-   <h1>My Team</h1>
-   div class="alert alert-success" role="alert">
+   <h1>My Team></h1>
 </div>
 </div>
 <div class="container-body container-fluid">
@@ -31,7 +30,6 @@ const generateHTML = function (teamString) {
 // create employee cards
 const generateCard = function (arr) {
     
-    let positionIcon;
     // display role information
     let roleInfo;
 
