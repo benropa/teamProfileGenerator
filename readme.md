@@ -10,7 +10,7 @@ In order to run this application, the user will need to clone the repository and
 https://drive.google.com/file/d/132R_yc1fj6NtsHdDmVMQtTr4F5s0yf1-/view
 
 ## Screenshot
-/var/folders/9v/bxry04w91h38zjswcdkxhxhr0000gn/T/TemporaryItems/NSIRD_screencaptureui_PkCYds/Screenshot 2023-04-30 at 1.24.53 PM.png
+Screenshot 2023-04-30 at 1.27.48 PM.png
 
 ## Contact
 * benropa@outlook.com  
