@@ -14,11 +14,11 @@ const generateHTML = function (teamString) {
 </head>
 <body>
 <div class="header">
-   <h1>My Team></h1>
+   <h1 style="background-color: white; width: 30%; padding: 5px; border-radius: 3px;">My Team</h1>
 </div>
 </div>
 <div class="container-body container-fluid">
-   <div>
+   <div style="background-color: grey; width: 30%; padding: 5px; border-radius: 5px;">
         ${teamString} 
     </div>
 </div>
