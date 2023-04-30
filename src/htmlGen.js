@@ -15,6 +15,7 @@ const generateHTML = function (teamString) {
 <body>
 <div class="header">
    <h1>My Team</h1>
+   div class="alert alert-success" role="alert">
 </div>
 </div>
 <div class="container-body container-fluid">
@@ -47,8 +48,8 @@ const generateCard = function (arr) {
 <div>
     <div>
         <div>
-            <h4 ${arr.name}</h4>
-            <h4 ${arr.title}</h4>
+            <h3>${arr.name}</h3>
+            <h4>${arr.title}</h4>
         </div>
         <div>
             <ul>
